@@ -9,6 +9,8 @@ def minus(a, b):
 def test_addition():
     assert fun(3, 5) == 8
 
+# test_minus
+
 
 def test_minus():
     assert minus(2, 5) == 3
