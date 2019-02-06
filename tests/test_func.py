@@ -13,4 +13,4 @@ def test_addition():
 
 
 def test_minus():
-    assert minus(2, 5) == 2
+    assert minus(2, 5) == 3
