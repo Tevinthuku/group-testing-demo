@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/Tevinthuku/group-testing-demo.svg?branch=develop)](https://travis-ci.org/Tevinthuku/group-testing-demo)
 
+[![Coverage Status](https://coveralls.io/repos/github/Tevinthuku/group-testing-demo/badge.svg?branch=develop)](https://coveralls.io/github/Tevinthuku/group-testing-demo?branch=develop)
+
 # group-testing-demo
 
 Demo we'll use to learn all about testing
