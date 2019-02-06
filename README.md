@@ -14,3 +14,7 @@ Demo we'll use to learn all about testing
 
 1. Testing
 2. Intergrating Travis CI.
+
+## packages to install
+
+pip install pytest coveralls pytest-cov
