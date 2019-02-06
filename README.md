@@ -18,3 +18,7 @@ Demo we'll use to learn all about testing
 ## packages to install
 
 pip install pytest coveralls pytest-cov
+
+## testing
+
+python -m pytest --cov=tests
