@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Tevinthuku/group-testing-demo.svg?branch=develop)](https://travis-ci.org/Tevinthuku/group-testing-demo)
+
 # group-testing-demo
 
 Demo we'll use to learn all about testing
