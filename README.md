@@ -28,4 +28,4 @@ pip install pytest coveralls pytest-cov
 
 ## testing
 
-python -m pytest --cov=tests
+python -m pytest --cov=app
