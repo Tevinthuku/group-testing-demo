@@ -11,15 +11,20 @@ Demo we'll use to learn all about testing
 ## ITEMS COVERED
 
 1. Created GET, POST routes with blueprints
+2. Testing
+3. Intergrating Travis CI and coveralls
 
 ## ITEMS LEFT
 
-1. Testing
-2. Intergrating Travis CI.
+None.
 
 ## packages to install
 
 pip install pytest coveralls pytest-cov
+
+```
+   pip freeze > requirements.txt
+```
 
 ## testing
 
